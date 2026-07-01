@@ -1,0 +1,78 @@
+canonical_identifier: bkk:krp/KR6d0202/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0202/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 千手千眼大悲心咒行法
+  identifiers:
+    krp: KR6d0202
+    cbeta: X74n1480
+    cbeta_old_id: X74n1480
+    authorityid: CA0007956
+    json_key: X1480
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1480.xml
+    old_id: X74n1480
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0202_000-X.yaml, hash: 'sha256:5b0a2e790991d5ace08cff27c0fa0134539298ba7e84814d7a1e74dfba9aa45c'}
+  - {seq: 1, filename: KR6d0202_001-X.yaml, hash: 'sha256:bfa9b8b6e8ae15abcbe9893c60f803e4ed90723a310194289a9dab20d755733f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0202_000-X.markers.yaml, hash: 'sha256:b0c9adbf3262a285563841e295b6c327487577f392b9d8c38ea65b0da8f51252'}
+  - {seq: 1, role: markers, filename: assets/KR6d0202_001-X.markers.yaml, hash: 'sha256:eba6dd674f4814cab6392c2ce08cea36fd6b1714d6a0ae1299ce96266639449f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0202_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4855
+  label: 千手千眼大悲心呪行法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0202_X_001-mulu-1
+    span:
+    - body
+    - 30
+    - 30
+  label: 懺法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0202_X_001-mulu-2
+    span:
+    - body
+    - 3704
+    - 3704
+  label: 西天目山沙門明本再拜併題于卷之尾云
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0202_X_001-mulu-3
+    span:
+    - body
+    - 4272
+    - 4272
+  label: 徑山住持比丘𭤔陵說偈讚云
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0202_X_001-mulu-4
+    span:
+    - body
+    - 4574
+    - 4574
+  label: 敬書畫像大悲心陀羅尼後
+  type: mulu
+  level: 1
+hash: sha256:b02125e1f64da3f084b23239644e137ab77a76b60642ab7e97a77f002e5cd7e6

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0202/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 千手千眼大悲心咒行法
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1480.xml
+    old_id: X74n1480
+hash: sha256:5b0a2e790991d5ace08cff27c0fa0134539298ba7e84814d7a1e74dfba9aa45c
