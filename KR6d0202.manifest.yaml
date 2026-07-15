@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0202/v1
 canonical_location: https://kanripo.org/bkk/KR6d0202/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 千手千眼大悲心咒行法
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0202_000.yaml, hash: 'sha256:5b0a2e790991d5ace08cff27c0fa0134539298ba7e84814d7a1e74dfba9aa45c'}
-  - {seq: 1, filename: KR6d0202_001.yaml, hash: 'sha256:bfa9b8b6e8ae15abcbe9893c60f803e4ed90723a310194289a9dab20d755733f'}
+  - {seq: 1, filename: KR6d0202_001.yaml, hash: 'sha256:fd323be61e24a67968414e0c9ceb5b4069a86ffd885fd400705ac291aceea247'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0202_000.markers.yaml, hash: 'sha256:d16af72c3b667f03479d1a8bd2361e89f6d6f7a22d5eb5014117f5e269df61c4'}
-  - {seq: 1, role: markers, filename: assets/KR6d0202_001.markers.yaml, hash: 'sha256:dc99d6be29a6e77c704f77e755ebf68a1364264d5127b5ea697fb178cca50245'}
+  - {seq: 1, role: markers, filename: assets/KR6d0202_001.markers.yaml, hash: 'sha256:31494733b3945c4da895fdd15af0a28e3552485817a85a714bdf5282b2db1277'}
 table_of_contents:
 - ref:
     seq: 1
@@ -77,4 +77,7 @@ table_of_contents:
   label: 敬書畫像大悲心陀羅尼後
   type: mulu
   level: 1
-hash: sha256:1fb6f143a9c09ad6e12d6f0851a688fb250f8af241097d9d14988600f2f12402
+hash: sha256:199cbf3269cef67e3f00019534356f5de50877974b36d3d15a85a1702c6fd5ca
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
